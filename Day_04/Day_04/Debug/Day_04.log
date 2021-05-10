@@ -1,0 +1,7 @@
+﻿  ass4.c
+E:\Pooja DBDA\C Programming\Day_04\Day_04\ass4.c(13,9): warning C4013: 'system' undefined; assuming extern returning int
+E:\Pooja DBDA\C Programming\Day_04\Day_04\ass4.c(28,51): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+E:\Pooja DBDA\C Programming\Day_04\Day_04\ass4.c(28,46): warning C4024: 'strcmp': different types for formal and actual parameter 2
+E:\Pooja DBDA\C Programming\Day_04\Day_04\ass4.c(28,77): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+E:\Pooja DBDA\C Programming\Day_04\Day_04\ass4.c(28,72): warning C4024: 'strcmp': different types for formal and actual parameter 2
+  Day_04.vcxproj -> E:\Pooja DBDA\C Programming\Day_04\Debug\Day_04.exe
